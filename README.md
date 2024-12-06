@@ -1,4 +1,4 @@
-# PRODIGY_TrackCode_TaskNUMBER
+# PRODIGY_TrackCode_TaskNumber
 
 This repository is for maintaining completed tasks related to various projects and assignments.
 
